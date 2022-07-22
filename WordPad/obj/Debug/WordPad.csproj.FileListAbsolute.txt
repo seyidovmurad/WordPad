@@ -1,0 +1,10 @@
+C:\Users\01mur\source\repos\WordPad\WordPad\bin\Debug\WordPad.exe.config
+C:\Users\01mur\source\repos\WordPad\WordPad\bin\Debug\WordPad.exe
+C:\Users\01mur\source\repos\WordPad\WordPad\bin\Debug\WordPad.pdb
+C:\Users\01mur\source\repos\WordPad\WordPad\obj\Debug\WordPad.csproj.AssemblyReference.cache
+C:\Users\01mur\source\repos\WordPad\WordPad\obj\Debug\WordPad.Form1.resources
+C:\Users\01mur\source\repos\WordPad\WordPad\obj\Debug\WordPad.Properties.Resources.resources
+C:\Users\01mur\source\repos\WordPad\WordPad\obj\Debug\WordPad.csproj.GenerateResource.cache
+C:\Users\01mur\source\repos\WordPad\WordPad\obj\Debug\WordPad.csproj.CoreCompileInputs.cache
+C:\Users\01mur\source\repos\WordPad\WordPad\obj\Debug\WordPad.exe
+C:\Users\01mur\source\repos\WordPad\WordPad\obj\Debug\WordPad.pdb
